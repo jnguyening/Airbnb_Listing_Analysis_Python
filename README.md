@@ -5,4 +5,4 @@ This project provides a comprehensive Exploratory Data Analysis (EDA) and data p
 
 The project is structured to demonstrate a professional data science workflow, beginning with the ingestion of large-scale CSV files using optimized memory management and specific character encoding. A significant portion of the work involves data sanitization and feature engineering, specifically isolating the Paris market to evaluate local neighborhood performance, host tenure, and pricing dynamics.
 
-Airbnb Listings & Reviews Dataset: [Maven Analytics Data Playground](https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&search=airbnb)
+ Dataset: [Airbnb Listings & Reviews](https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&search=airbnb)
