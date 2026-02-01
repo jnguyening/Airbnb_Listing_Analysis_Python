@@ -1,4 +1,4 @@
-# Airbnb Listing Data Analysis with Python
+# Airbnb Listing Data Analysis 
 
 ## Overview
 This project provides a comprehensive Exploratory Data Analysis (EDA) and data processing pipeline for a massive Airbnb dataset containing over 270,000 listings across major global cities. Using Python and the Pandas library, the analysis focuses on transforming raw, multi-dimensional data into actionable market intelligence.
